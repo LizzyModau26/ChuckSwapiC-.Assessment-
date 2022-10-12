@@ -1,0 +1,11 @@
+.col{
+    padding: 2rem;
+    margin: 2rem;
+    background-color: cornflowerblue;
+    border-color: blue;
+    border: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
