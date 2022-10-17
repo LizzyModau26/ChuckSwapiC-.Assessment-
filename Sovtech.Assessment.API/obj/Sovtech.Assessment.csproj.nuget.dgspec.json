@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Sovtech.Assessment\\Sovtech.Assessment.csproj": {}
+    "C:\\Users\\User\\Desktop\\ChuckSwapiC-.Assessment-\\Sovtech.Assessment.API\\Sovtech.Assessment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Sovtech.Assessment\\Sovtech.Assessment.csproj": {
+    "C:\\Users\\User\\Desktop\\ChuckSwapiC-.Assessment-\\Sovtech.Assessment.API\\Sovtech.Assessment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Sovtech.Assessment\\Sovtech.Assessment.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\ChuckSwapiC-.Assessment-\\Sovtech.Assessment.API\\Sovtech.Assessment.csproj",
         "projectName": "Sovtech.Assessment",
-        "projectPath": "C:\\Users\\User\\Desktop\\Sovtech.Assessment\\Sovtech.Assessment.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\ChuckSwapiC-.Assessment-\\Sovtech.Assessment.API\\Sovtech.Assessment.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Sovtech.Assessment\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\ChuckSwapiC-.Assessment-\\Sovtech.Assessment.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
